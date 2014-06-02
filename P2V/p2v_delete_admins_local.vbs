@@ -1,3 +1,4 @@
+' Written By: markchristopherwest@gmail.com
 ' delete_p2vadmins.vbs
 ' ---------------------------------------------------------------' 
 Option Explicit
